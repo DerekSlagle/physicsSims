@@ -1,0 +1,19 @@
+1280 700
+
+60.0 40.0
+40.0
+24
+0 150 100
+255 0 100
+
+10
+1      CM
+2      QM
+4      Electric Controls
+5      Control Builder
+7      Outside Perspective
+8      Inside Perspective
+9      Another Perspective
+10     Terrain Perspective
+11     3dCourt
+12     Just Draw

@@ -1,0 +1,9 @@
+60.0 160.0
+60.0
+30
+0 255 0
+255 0 0
+
+2
+1      Finite Square Well
+2      Harmonic Oscillator
