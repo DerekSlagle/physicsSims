@@ -1,0 +1,22 @@
++terminal 500 10 60 30
++contact 580 10 60 30
++LdTerm  660 10 60 30
++pbNO    740 10 60 30
++pbNC    820 10 60 30
++orGate  900 10 60 30
++bus2    980 10 60 30
++LimSw  1060 10 60 30
+
+cPower 20 100 40 26
+t_CP 5.0 80 110 -5 2
+LdPower 20 140 40 26
+t_LDP 5.0 80 150 -5 2
+
+drawWires  20 10 80 40
+
+Save  1200 200 60 30
+Load  1200 250 60 30
+
+MODE 160 20 300 30  4 0
+-20 20
++device move operate program
