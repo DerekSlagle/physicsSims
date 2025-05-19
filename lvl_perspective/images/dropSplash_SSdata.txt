@@ -1,0 +1,10 @@
+include/levels/lvl_perspective/images/dropSplash.jpg
+
+1
+6
+4 4 128 116
+130 4 128 116
+264 4 128 116
+4 127 128 116
+130 127 128 116
+264 127 128 116

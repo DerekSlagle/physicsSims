@@ -1,0 +1,12 @@
+150 170
+
+AutoRoll 20 250 60 30
+DrawPanes 20 290 60 30
+LevelOut 90 250 60 30
+Trigger  90 290 60 30
+dblFire  20 330 60 30
+Target   90 330 60 30
+hitAll    20 370 60 30
+SBmove   90 370 60 30
+
+CS2Control_data end

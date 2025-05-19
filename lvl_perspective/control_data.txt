@@ -1,0 +1,23 @@
+100 10 110 110
+
+include/levels/lvl_perspective/controls/CS2Control_data.txt
+10 208 40 24 0 32
+
+include/levels/lvl_perspective/controls/multiControl_data.txt
+680 10 50 25 56 0
+include/levels/lvl_perspective/controls/HOballControl_data.txt
+626 10 50 25 110 0
+include/levels/lvl_perspective/controls/FreeBallControl_data.txt
+626 38 50 25 110 -28
+include/levels/lvl_perspective/controls/IslandControl_data.txt
+680 38 50 25 56 -28
+include/levels/lvl_perspective/controls/PendControl_data.txt
+572 10 50 25 164 0
+include/levels/lvl_perspective/controls/shadowControl_data.txt
+572 38 50 25 164 -28
+include/levels/lvl_perspective/controls/fragControl_data.txt
+518 10 50 25 218 0
+include/levels/lvl_perspective/controls/soundControl_data.txt
+680 38 50 25 56 -28
+
+476

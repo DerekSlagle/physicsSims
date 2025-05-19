@@ -1,0 +1,9 @@
+include/levels/lvl_perspective/images/car2.jpg
+
+1
+5
+85 86 363 274
+85 420 363 370
+502 86 708 274
+502 420 708 370
+550 550 100 100

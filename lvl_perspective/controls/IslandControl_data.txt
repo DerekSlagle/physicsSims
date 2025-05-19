@@ -1,0 +1,18 @@
+240 150
+10 10
+160 20
+40 20 6
+4
+align degrees
+0.5 20 3
+Rcam Rcam
+1000 8000 2000
+Rview Rview
+1000 10000 3000
+R1 R1
+5000 15000 6000
+0 20
+
+20 100 160 24
+
+IslandControl_init_complete!

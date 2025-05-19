@@ -1,0 +1,18 @@
+260 150
+10 10
+180 20
+50 22 4
+4
+spring spring
+20 1000 100
+damp damp
+0.0 100 0.5
+mass mass
+1 100 10
+R radius
+6 100 30
+0 26
+
+100 110 60 30
+
+HOballControl_init_complete!

@@ -1,0 +1,8 @@
+include/levels/lvl_perspective/images/mansion.png
+1
+
+4
+0 50 420 320
+0 50 160 320
+260 50 160 320
+150 200 20 20

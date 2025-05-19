@@ -1,0 +1,25 @@
+15
+blockHouses_SSdata.txt
+minivan_SSdata.txt
+flame2_SSdata.txt
+tiles1_SSdata.txt
+palmTreeA_SSdata.txt
+mansion_SSdata.txt
+treeA_SSdata.txt
+car2_SSdata.txt
+message_SSdata.txt
+hyperA_SSdata.txt
+hyperB_SSdata.txt
+hyperC_SSdata.txt
+hyperD_SSdata.txt
+target_SSdata.txt
+jetClipArt_SSdata.txt
+
+7
+7 252 252 252
+8 255 255 255
+9 255 255 255
+10 255 255 255
+11 255 255 255
+12 255 255 255
+14 255 255 255

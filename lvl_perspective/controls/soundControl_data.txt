@@ -1,0 +1,20 @@
+260 220
+10 10
+180 20
+50 22 4
+6
+SF shotFire
+0 100 50
+SB  shotBoom
+0 100 50
+FF  fragFire
+0 100 50
+FB fragBoom
+0 100 50
+BvB ballBall
+0 100 50
+BvW  ballWall
+0 100 50
+0 20
+
+soundControl_done

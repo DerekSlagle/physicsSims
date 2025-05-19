@@ -1,0 +1,6 @@
+include/levels/lvl_perspective/images/palmTreeA.png
+
+1
+
+1
+0 0 292 600

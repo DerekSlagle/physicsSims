@@ -1,0 +1,5 @@
+      Lt  Top Rt   Bottom
+front 85  86  448  360
+side  502 86  1210 360
+top   502 420 1210 790
+back  85  420 448  790
