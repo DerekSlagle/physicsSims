@@ -1,0 +1,41 @@
+Multi
+
+260 180
+10 10
+180 20
+50 22 4
+12
+zSpeed walkSpeed
+100 3000 1200
+accel camAccel
+100 1000 400
+scroll scroll
+100 3000 1200
+G gravity
+1.0 2000.0 800.0
+shotV shotVel
+100 6000 2000
+rate fireRate
+1 30 5
+tLife tLife
+0.5 10 3
+Cr mat_Cr
+0.2 1.0 1.0
+
+tRoll rotTime
+0.2 5 1
+rotA rotA
+-10 10 1
+rotB rotB
+-10 10 3
+rotC rotC
+-10 10 -1.5
+
+0 20
+
+init_controlMS_done
+
+60 150 60 24
+140 150 60 24
+
+init_MultiControl_done

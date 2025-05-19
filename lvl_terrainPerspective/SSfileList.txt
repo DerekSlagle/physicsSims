@@ -1,0 +1,19 @@
+images/
+
+11
+boomSm_SSdata.txt
+dropSplash_SSdata.txt
+dime_SSdata.txt
+target_SSdata.txt
+goldStarRt_SSdata.txt
+tiles1_SSdata.txt
+minivan_SSdata.txt
+car2_SSdata.txt
+wheelA_SSdata.txt
+tireTreads_SSdata.txt
+moon_SSdata.txt
+
+3
+0 0 0 0
+7 252 252 252
+8 255 255 255

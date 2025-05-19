@@ -1,0 +1,46 @@
+1000 
+0 200 0   0 0 1
+0.0 0.0
+
+12
+0.00013
+0.0 0.001 0.001 0.02
+400 -200
+
+50 50 50   0 20 150
+14  255 255 255  300 10 100 20
+
+include/levels/lvl_terrainPerspective/SSfileList.txt
+include/levels/lvl_terrainPerspective/terrain_data.txt
+include/levels/lvl_terrainPerspective/persMat_data.txt
+include/levels/lvl_terrainPerspective/control_data.txt
+include/levels/lvl_terrainPerspective/recorder_data.txt
+include/levels/lvl_terrainPerspective/fan_data.txt
+
+20 0  1
+0 0 1000 60 60 0 1 0  255 255 255 0 3
+
+20 8 40 0 255  1.0
+
+40 6 0 240 60  40 3.0
+
+2 160 0 0 200
+
+100 340 
+14 255 255 255
+Help: key H
+** on key press
+space = fire shots
+arrows = translate view
+<- + Shift = POI/roll
+-> + Shift = POI/roll
+'J' = release joyButton
+'Z' = stop camera
+** on key release
+'B' = barrel roll w/level off
+'1' = recall shots to pool
+'C' = show cluster bounds
+'P' = place mat surfer
+'Q' = start/stop bouncer
+'2' = start/stop recorder
+'3' = play back recording

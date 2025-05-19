@@ -1,0 +1,27 @@
+Bezier
+
+260 180
+10 10
+180 20
+50 22 4
+
+6
+tRoll roll_time
+0.2 10 2
+rU1  rollU1
+0.05 0.4 0.1
+rU2  rollU2
+0.6 0.95 0.9
+
+tPitch pitch_time
+0.5 10 4
+pU1  pitchU1
+0.05 0.4 0.1
+pU2  pitchU2
+0.6 0.95 0.9
+
+0 20
+
+init_controlMS_done
+
+init_BezierControl_done

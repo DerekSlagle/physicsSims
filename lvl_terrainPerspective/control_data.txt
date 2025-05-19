@@ -1,0 +1,14 @@
+100 10 110 110
+
+include/levels/lvl_terrainPerspective/controls/multiControl_data.txt
+580 10 50 30 56 0
+
+controls 500 10 50 30
+
+include/levels/lvl_terrainPerspective/controls/BezierControl_data.txt
+500 42 50 30 56 -32
+
+include/levels/lvl_terrainPerspective/controls/lightingControl_data.txt
+500 74 50 30 56 -64
+
+include/levels/lvl_terrainPerspective/controls/matAdapterControl_data.txt
