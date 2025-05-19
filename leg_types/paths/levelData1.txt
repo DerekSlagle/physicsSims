@@ -1,0 +1,4 @@
+paths/squad_blockC.txt
+paths/squad_pathA.txt
+paths/squad_blockA.txt
+paths/squad_fig8a.txt
