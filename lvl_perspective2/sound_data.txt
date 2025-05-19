@@ -1,0 +1,10 @@
+20
+2000
+0.02
+
+sounds/shotFire.wav   50
+sounds/shotBoom.wav   50
+sounds/fragFire_launch.wav 50
+sounds/fragBoom_ding.wav  50
+sounds/ballVsBall_bong.wav 50.0
+sounds/ballVsBall_pop.wav 30.0

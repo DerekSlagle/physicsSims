@@ -1,0 +1,20 @@
+Cannon
+260 150
+10 10
+180 20
+50 22 4
+3
+move speed
+50 2000 300
+angle mortar
+30 87 45
+tFuse delay
+0.2 2.0 0.5
+0 22
+
+init_ControlMS()_done
+
+10 110 50 26
+70 110 50 26
+
+cannonControl_init()_Done!

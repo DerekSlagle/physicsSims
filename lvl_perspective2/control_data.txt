@@ -1,0 +1,26 @@
+100 10 110 110
+
+controls 742 10 50 30
+
+include/levels/lvl_perspective2/controls/multiControl_data.txt
+850 10 50 30 56 0
+
+include/levels/lvl_perspective2/controls/fragControl_data.txt
+850 44 50 30 56 -34
+
+include/levels/lvl_perspective2/controls/basisControl_data.txt
+850 78 50 30 56 -68
+
+include/levels/lvl_perspective2/controls/droneControl_data.txt
+796 10 50 30 110 0
+
+include/levels/lvl_perspective2/controls/cannonControl_data.txt
+796 44 50 30 110 -34
+
+include/levels/lvl_perspective2/controls/homerControl_data.txt
+796 78 50 30 110 -68
+
+include/levels/lvl_perspective2/controls/spinTargetControl_data.txt
+796 112 50 30 110 -102
+
+init_controls() end

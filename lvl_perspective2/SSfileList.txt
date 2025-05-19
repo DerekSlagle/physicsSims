@@ -1,0 +1,14 @@
+include/levels/lvl_insidePerspective/images/
+
+7
+tiles1_SSdata.txt
+target_SSdata.txt
+treeA_SSdata.txt
+flame2_SSdata.txt
+jet3_SSdata.txt
+geese_SSdata.txt
+plusTarget_SSdata.txt
+
+2
+4 255 255 255
+6 255 255 255

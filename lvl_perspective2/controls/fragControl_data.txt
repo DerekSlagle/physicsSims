@@ -1,0 +1,19 @@
+Frag
+260 150
+10 10
+180 20
+50 22 4
+3
+frag tBoom
+0.1 10.0 2.0
+Vfire Vfire
+500 8000 3000
+Vfrag Vfrags
+50 5000 1000
+0 22
+
+init_ControlMS()_done
+
+20 100 150 26
+
+fragControl_init()_Done!

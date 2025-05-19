@@ -1,0 +1,17 @@
+Sphere
+
+260 150
+10 10
+180 20
+50 22 4
+3
+L Rbm
+50 500 200
+theta thAngle
+0 3.1416 0.4
+phiDot phiDot
+-30 30 4.0
+
+0 20
+
+basisControl_init

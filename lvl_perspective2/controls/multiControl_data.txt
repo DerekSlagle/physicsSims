@@ -1,0 +1,32 @@
+Multi
+
+260 180
+10 10
+180 20
+50 22 4
+9
+zSpeed walkSpeed
+100 3000 1200
+scroll scroll
+100 3000 1200
+vFire fireVel
+500.0 8000.0 4000.0
+Fire rate
+1.0 30.0 8.0
+G gravity
+0.0 1000.0 200.0
+SYP senseYP
+0.00003 0.0005  0.00005
+zoom distance
+1000 20000 8000
+canMove mvSpeed
+20 1000 200
+frag tFuse
+0.1 1.0 0.5
+0 20
+
+init_controlMS_done
+
+100 150 60 24
+
+init_MultiControl_done

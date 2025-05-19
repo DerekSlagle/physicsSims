@@ -1,0 +1,27 @@
+spinTarget
+
+260 150
+10 10
+180 20
+50 22 4
+5
+mass mass
+2 1000 10
+I moi
+4000 400000 40000
+grav gravity
+10 2000 400
+drag torque
+10 1000 100
+Rcm fraction
+0.1 1.0 0.5
+0 20
+
+MS_done
+
+10 116 50 26
+12 100 116 160
+100 130 160
+8 230 130
+
+init_spinTargetControl_done
