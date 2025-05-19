@@ -1,0 +1,7 @@
+include/levels/lvl_insidePerspective/images/diningTableOrtho.jpg
+
+1
+3
+6    6   980 604
+6    822 988 560
+1190 822 610 560

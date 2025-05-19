@@ -1,0 +1,8 @@
+include/levels/lvl_insidePerspective/images/bookCM.png
+
+1
+4
+1 1 940 1252
+957 1 640 826
+1627 1 220 1434
+15 1300 1075 190

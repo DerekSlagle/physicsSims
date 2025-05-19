@@ -1,0 +1,8 @@
+include/levels/lvl_insidePerspective/images/chairOrtho.png
+
+1
+4
+8 6 226 194
+8 232 226 455
+8 468 226 216
+320 232 190 455

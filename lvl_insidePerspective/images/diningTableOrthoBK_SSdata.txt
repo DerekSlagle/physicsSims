@@ -1,0 +1,7 @@
+include/levels/lvl_insidePerspective/images/diningTableOrtho.jpg
+
+1
+3
+2 2 980 610
+2 818 988 560
+1187 818 618 560

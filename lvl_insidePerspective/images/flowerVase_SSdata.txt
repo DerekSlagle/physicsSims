@@ -1,0 +1,5 @@
+include/levels/lvl_insidePerspective/images/flowersInVase.jpg
+
+1
+1
+2 2 697 1193

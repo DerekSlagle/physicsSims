@@ -1,0 +1,5 @@
+include/levels/lvl_perspective/images/jet3.jpg
+
+1
+1
+30 30 390 390

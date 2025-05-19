@@ -1,0 +1,5 @@
+include/levels/lvl_insidePerspective/images/wallPicture.jpg
+
+1
+1
+2 2 336 336

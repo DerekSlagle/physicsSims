@@ -1,0 +1,19 @@
+include/levels/lvl_insidePerspective/images/
+
+10
+tiles1_SSdata.txt
+target_SSdata.txt
+doubleDoor2_SSdata.txt
+windowA_SSdata.txt
+chairOrtho_SSdata.txt
+diningTableOrtho_SSdata.txt
+wallPicture_SSdata.txt
+flowerVase_SSdata.txt
+bookCmSS_data.txt
+treeA_SSdata.txt
+
+4
+4 255 255 255
+5 255 255 255
+6 255 255 255
+7 255 255 255

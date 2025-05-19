@@ -1,0 +1,26 @@
+100 10 110 110
+
+800 10 50 30 54 0  260 140
+10 10
+
+180 20
+50 26 4
+6
+zSpeed walkSpeed
+50 2000 600
+scroll scroll
+100 2000 600
+doorA1 fracOpen
+0 1 0
+doorA2 speed
+0.1 5 0.5
+doorB1 fracOpen
+0 1 0
+doorB2 speed
+0.1 5 0.5
+
+0 26
+
+180 44
+
+init_controls() end

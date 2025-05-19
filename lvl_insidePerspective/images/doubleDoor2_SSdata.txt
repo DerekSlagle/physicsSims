@@ -1,0 +1,5 @@
+include/levels/lvl_insidePerspective/images/doubleDoor2.jpg
+
+1
+1
+2 2 982 1276
